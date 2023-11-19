@@ -1,17 +1,17 @@
 {
-  "name": "Github Page PWA",
-  "short_name": "GPPWA",
-  "description": "Github Page as a Progressive Web App",
-  "scope": "/github-page-pwa/",
-  "start_url": "/github-page-pwa/",
+  "name": "ITAK",
+  "short_name": "ITAK",
+  "description": "Lesen sie die ITAK online (Bald auch als App erhältlich)",
+  "scope": "/itak/",
+  "start_url": "/itak/",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "display": "standalone", 
   "icons": [
       {
-        "src": "/github-page-pwa/img/icon.png",
+        "src": "/itak/img/icon.png",
         "type": "image/png",
-        "sizes": "700x700"
+        "sizes": "1024x1024"
       }
   ]
 }
