@@ -1,6 +1,6 @@
 var GHPATH = '/ikat';
 var APP_PREFIX = 'ikat_';
-var VERSION = 'version_002';
+var VERSION = 'version_103';
 var URLS = [    
   `${GHPATH}/`,
   `${GHPATH}/index.html`,
