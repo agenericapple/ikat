@@ -9,7 +9,7 @@
   "display": "standalone", 
   "icons": [
       {
-        "src": "/ikat/img/icon.png",
+        "src": "/ikat/img/img.png",
         "type": "image/png",
         "sizes": "1024x1024"
       }
