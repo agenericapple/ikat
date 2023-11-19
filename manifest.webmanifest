@@ -1,15 +1,15 @@
 {
-  "name": "ITAK",
-  "short_name": "ITAK",
-  "description": "Lesen sie die ITAK online (Bald auch als App erhältlich)",
-  "scope": "/itak/",
-  "start_url": "/itak/",
+  "name": "IKAT",
+  "short_name": "IKAT",
+  "description": "Lesen sie die IKAT online (Bald auch als App erhältlich)",
+  "scope": "/ikat/",
+  "start_url": "/ikat/",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "display": "standalone", 
   "icons": [
       {
-        "src": "/itak/img/icon.png",
+        "src": "/ikat/img/icon.png",
         "type": "image/png",
         "sizes": "1024x1024"
       }
